@@ -1,5 +1,5 @@
-total 44
-drwxr-xr-x 2 root root   204 Feb 13 09:00 .
+total 48
+drwxr-xr-x 2 root root   217 Feb 13 09:02 .
 drwxr-xr-x 6 root root   121 Feb 13 00:29 ..
 -rwxr--r-- 1 root root    32 Feb 13 02:35 0-hello_world
 -rwxr--r-- 1 root root    25 Feb 13 02:40 1-confused_smiley
@@ -9,5 +9,6 @@ drwxr-xr-x 6 root root   121 Feb 13 00:29 ..
 -rwxr--r-- 1 root root    35 Feb 13 02:52 5-firstlines
 -rwxr--r-- 1 root root    41 Feb 13 02:59 6-third_line
 -rw-r--r-- 1 root root 12288 Feb 13 02:57 .6-third_line.swp
--rwxr--r-- 1 root root     0 Feb 13 09:02 7-file
+-rwxr--r-- 1 root root   646 Feb 13 09:02 7-file
+-rw-r--r-- 1 root root     0 Feb 13 09:02 hello
 -rw-r--r-- 1 root root    24 Feb 13 02:33 README.md
